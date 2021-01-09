@@ -3,9 +3,15 @@
     <div class="content">
       <img class="img-logo" src="../img/fuji1230.png"/>
       <div class="production" v-show="true">
-        <div class="production-info"></div>
-        <div class="production-info"></div>
-        <div class="production-info"></div>
+        <div class="production-info">
+          <h1>Talking</h1>
+        </div>
+        <div class="production-info">
+          <h1>Lion VIP</h1>
+        </div>
+        <div class="production-info">
+          <h1>FUJI TUBE</h1>
+        </div>
       </div>
     </div>
   </div>
